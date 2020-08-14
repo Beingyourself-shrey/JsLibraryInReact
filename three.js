@@ -1,7 +1,7 @@
 import React from 'react'
 import * as THREE from "three";
 class First extends React.Component {
-     ok;
+    
     componentDidMount() {
         // === THREE.JS CODE START ===
         var scene = new THREE.Scene();
